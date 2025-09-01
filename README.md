@@ -2,6 +2,9 @@
 ### 👋 About Me  
 Hi! I’m **Varun Patel** from Mumbai, India 🇮🇳.  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/varun-patel-16611631a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=plastic&logo=github)](https://github.com/Varunpatel586)
+
 🔭 Currently pursuing **B.Tech in IT** at *K.J. Somaiya Institute of Technology*  
 🌱 Exploring **React, Android Development, and UI/UX basics**  
 💻 Love building apps & websites that are **simple, useful, and user-friendly**  
